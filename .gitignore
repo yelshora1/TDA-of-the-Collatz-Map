@@ -12,3 +12,7 @@ outputs/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Allow a small tracked outputs folder containing selected figures
+!outputs_small/
+!outputs_small/*
