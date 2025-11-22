@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.png
+*.csv
+*.ipynb
+notebooks/analysis_executed.ipynb
+notebooks/figs/
+outputs/
+# OS files
+.DS_Store
+Thumbs.db
